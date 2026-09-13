@@ -1,0 +1,37 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Hamburguesa",
+        "categoria": "Comida rápida",
+        "precio": 5.00,
+        "stock": 10
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Pizza",
+        "categoria": "Comida rápida",
+        "precio": 8.50,
+        "stock": 5
+    },
+    {
+        "codigo": "B001",
+        "nombre": "Coca-Cola",
+        "categoria": "Bebida",
+        "precio": 1.50,
+        "stock": 20
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Ensalada",
+        "categoria": "Vegetariano",
+        "precio": 4.25,
+        "stock": 8
+    },
+    {
+        "codigo": "D001",
+        "nombre": "Helado",
+        "categoria": "Postre",
+        "precio": 2.75,
+        "stock": 12
+    }
+]
