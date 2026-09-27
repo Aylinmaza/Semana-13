@@ -46,11 +46,12 @@ restaurante_app/
 - **MainView**: panel principal con opciones de usuarios y productos.
 - **Ventas**: identificada como funcionalidad pendiente.
 
----
-
 ## ▶️ Pasos para ejecutar
-1. Clonar o descargar el repositorio.  
-2. Verificar que Python esté instalado (`python --version`).  
-3. Ubicarse en la carpeta del proyecto:  
+
+1. **Clonar o descargar el repositorio**
    ```bash
-   cd Restaurante
+   git clone https://github.com/Aylinmaza/semana-13-Recuperacio.git
+cd semana-13-Recuperacio
+python --version
+intalar las dependencias pip install -r requirements.txt
+python main.py
